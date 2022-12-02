@@ -1,0 +1,259 @@
+.rect {
+    position: absolute;
+    width: 1203px;
+    height: 648px;
+    left: 110px;
+    top: 140px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 24px rgba(0, 0, 0, 0.16);
+}
+
+.lincoln {
+    position: absolute;
+    width: 130px;
+    height: 41px;
+    left: 147px;
+    top: 129px;
+
+    background: url(/assets/lincoln.svg);
+}
+
+.login {
+    position: absolute;
+    width: 62px;
+    height: 24px;
+    left: 453px;
+    top: 141px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #F41010;
+}
+
+.username {
+    position: absolute;
+    width: 142px;
+    height: 24px;
+    left: 165px;
+    top: 387px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+
+    color: #2B3A67;
+}
+
+.password {
+    position: absolute;
+    width: 116px;
+    height: 24px;
+    left: 165px;
+    top: 465px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+
+    color: #2B3A67;
+}
+
+.passwordicon {
+    position: absolute;
+    width: 21px;
+    height: 25px;
+    left: 614px;
+    top: 480px;
+
+    background: url(/assets/password.svg);
+}
+
+.line {
+    position: absolute;
+    width: 470px;
+    height: 0px;
+    left: 165px;
+    top: 420px;
+
+    border: 2px solid rgba(0, 0, 0, 0.34);
+}
+
+.line2 {
+    position: absolute;
+    width: 470px;
+    height: 0px;
+    left: 165px;
+    top: 500px;
+
+    border: 2px solid #A8A8A8;
+}
+
+.signup {
+    position: absolute;
+    width: 86px;
+    height: 30px;
+    left: 564px;
+    top: 140px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #45527A;
+}
+
+.img {
+    position: absolute;
+    width: 544px;
+    height: 538px;
+    left: 660px;
+    top: 109px;
+
+    background: linear-gradient(180deg, #F41010 0%, rgba(244, 16, 16, 0.67) 41.82%, rgba(23, 74, 226, 0.74) 88.66%);
+}
+
+.elipse {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 411px;
+    height: 410px;
+    left: 721px;
+    top: 173px;
+
+    background: rgba(91, 119, 226, 0.13);
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25);
+}
+
+/* .elipse2 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 329px;
+    height: 329px;
+    left: 762px;
+    top: 213px;
+
+    background: rgba(91, 119, 226, 0.13);
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25);
+} */
+
+.loginimg {
+    position: absolute;
+    width: 372px;
+    height: 276px;
+    left: 715px;
+    top: 251px;
+}
+
+.dash {
+    position: absolute;
+    width: 10px;
+    height: 24px;
+    left: 533px;
+    top: 140px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.signin {
+    position: absolute;
+    width: 140px;
+    height: 29px;
+    left: 168px;
+    top: 266px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #2B3A67;
+
+}
+
+.usernameicon {
+
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 605px;
+    top: 398px;
+
+    background: url(/assets/username.svg);
+}
+
+.signin2 {
+    position: absolute;
+    width: 324px;
+    height: 24px;
+    left: 168px;
+    top: 310px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: lowercase;
+
+    color: #B8B3B3;
+}
+
+.forgotpassword {
+    position: absolute;
+    width: 258px;
+    height: 24px;
+    left: 382px;
+    top: 523px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: lowercase;
+
+    color: #B8B3B3;
+}
+
+.signinbtn {
+    position: absolute;
+    width: 467px;
+    height: 42px;
+    left: 158px;
+    top: 571px;
+
+    background: rgba(245, 34, 34, 0.7);
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+
+    color: #2B3A67;
+}
