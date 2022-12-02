@@ -7,3 +7,287 @@
 
     background: #FFFFFF;
 }
+
+.lincoln {
+    position: absolute;
+    width: 130px;
+    height: 41px;
+    left: 147px;
+    top: 129px;
+
+    background: url(/assets/lincoln.svg);
+}
+
+.signup {
+    position: absolute;
+    width: 86px;
+    height: 30px;
+    left: 447px;
+    top: 138px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #F41616;
+}
+
+.login {
+    position: absolute;
+    width: 62px;
+    height: 24px;
+    left: 573px;
+    top: 138px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #45537A;
+}
+
+.dash {
+    position: absolute;
+    width: 10px;
+    height: 24px;
+    left: 550px;
+    top: 120px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.signupword {
+    position: absolute;
+    width: 97px;
+    height: 29px;
+    left: 168px;
+    top: 242px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #2B3A67;
+}
+
+.sent {
+    position: absolute;
+    width: 351px;
+    height: 24px;
+    left: 168px;
+    top: 289px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: lowercase;
+
+    color: #B8B3B3;
+}
+
+.fullname {
+
+    position: absolute;
+    width: 138px;
+    height: 24px;
+    left: 168px;
+    top: 359px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+
+    color: #2B3A67;
+}
+
+.line {
+    position: absolute;
+    width: 470px;
+    height: 0px;
+    left: 165px;
+    top: 396px;
+
+    border: 2px solid rgba(0, 0, 0, 0.34);
+}
+
+.fullnameicon {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 595px;
+    top: 365px;
+
+    background: url(/assets/usernameicon.svg);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.passwordicon {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 600px;
+    top: 420px;
+
+    background: url(/assets/password2.svg);
+}
+
+.password {
+    position: absolute;
+    width: 116px;
+    height: 24px;
+    left: 168px;
+    top: 404px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+
+    color: #2B3A67;
+}
+
+.line2 {
+    position: absolute;
+    width: 470px;
+    height: 0px;
+    left: 165px;
+    top: 438px;
+
+    border: 2px solid #A8A8A8;
+}
+
+.facultyicon {
+    position: absolute;
+    width: 52px;
+    height: 24px;
+    left: 580px;
+    top: 460px;
+
+    background: url(/assets/faculty.svg);
+}
+
+.faculty {
+
+    position: absolute;
+    width: 92px;
+    height: 24px;
+    left: 165px;
+    top: 446px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+
+    color: #2B3A67;
+}
+
+.line3 {
+    position: absolute;
+    width: 470px;
+    height: 0px;
+    left: 165px;
+    top: 480px;
+
+    border: 2px solid #A8A8A8;
+}
+
+.email {
+    position: absolute;
+    width: 63px;
+    height: 24px;
+    left: 168px;
+    top: 485px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+
+    color: #2B3A67;
+}
+
+.emailicon {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 595px;
+    top: 495px;
+
+    background: url(/assets/mail.svg);
+}
+
+.line4 {
+    position: absolute;
+    width: 470px;
+    height: 0px;
+    left: 161px;
+    top: 520px;
+
+    border: 2px solid #A8A8A8;
+}
+
+.signin {
+
+    position: absolute;
+    width: 467px;
+    height: 42px;
+    left: 158px;
+    top: 571px;
+
+    background: rgba(245, 34, 34, 0.7);
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+
+    color: #2B3A67;
+}
+
+.img {
+    position: absolute;
+    width: 544px;
+    height: 538px;
+    left: 660px;
+    top: 109px;
+
+    background: linear-gradient(180deg, #F41010 0%, rgba(244, 16, 16, 0.67) 41.82%, rgba(23, 74, 226, 0.74) 88.66%);
+}
+
+.loginimg {
+    position: absolute;
+    width: 372px;
+    height: 276px;
+    left: 715px;
+    top: 251px;
+}
